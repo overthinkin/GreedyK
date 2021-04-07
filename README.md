@@ -179,7 +179,7 @@ public class Main {
 
 ## 3. 결과
 
-![결과]("https://user-images.githubusercontent.com/80513292/113898081-7da31e80-9806-11eb-927e-72398d8fc925.png")
+![결과]("https://user-images.githubusercontent.com/80513292/113898858-34070380-9807-11eb-8469-b4b9293cbd54.png")
 
 
 
